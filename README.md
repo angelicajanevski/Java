@@ -1,2 +1,2 @@
-# euler
-Project Euler solution attempts
+# Java
+Project Euler solution attempts/Java programs
